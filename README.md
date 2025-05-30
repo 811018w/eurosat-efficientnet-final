@@ -1,6 +1,9 @@
 
 # EuroSAT EfficientNet 專題報告
 
+由於模型過大無法上傳至 GITHUB 故把模型以及相關程式碼以及全部檔案放置個人雲端
+: https://drive.google.com/drive/folders/1gknP0aIFBt7YCBH3y1-XhWeLikeO_H5I?usp=sharing
+
 ## 題目
 使用 EfficientNet V2 進行 EuroSAT 衛星影像分類
 
